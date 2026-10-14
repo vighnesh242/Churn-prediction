@@ -3,9 +3,6 @@ Customer Churn Prediction for Retail Banking
 
 **Tools:** SQL (SQLite) · Python (pandas, scikit-learn, XGBoost, SHAP) · Tableau Public
 
-**Dashboard:** [add Tableau Public link]
-**Author:** Vighnesh Gosavi · [add LinkedIn link]
-
 I built this project to answer a question every retail bank cares about: which customers are about to leave, and which of them are worth fighting for? I engineered RFM (Recency, Frequency, Monetary) features in SQL, trained an XGBoost model in Python to score churn risk for 28,382 customers, and built a Tableau dashboard that turns those scores into a ranked list of customers for the retention team to call first.
 
 
